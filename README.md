@@ -20,17 +20,15 @@ https://www.cloudskillsboost.google/quests/198
 
 6. Use APIs to Work with Cloud Storage
 
-https://www.cloudskillsboost.google/quests/257
+https://www.cloudskillsboost.google/quests/321
 
 7. Manage Kubernetes in Google Cloud
 
 https://www.cloudskillsboost.google/quests/257
 
-8. Google Workspace for Education
 
-https://www.cloudskillsboost.google/quests/308
 
-9. Analyze Images with the Cloud Vision API
+8 Analyze Images with the Cloud Vision API
 
 https://www.cloudskillsboost.google/quests/308
 
